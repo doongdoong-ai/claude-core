@@ -1,0 +1,15 @@
+{
+  "originHash" : "aa6078210c5099c4eda067d6a5e40976b21dcd99c69668890e2a43a34a72926c",
+  "pins" : [
+    {
+      "identity" : "codex-core",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/doongdoong-ai/codex-core.git",
+      "state" : {
+        "revision" : "ec1db4cd7889c8d203704e4a0db06c19d685a4a9",
+        "version" : "0.3.0"
+      }
+    }
+  ],
+  "version" : 3
+}
